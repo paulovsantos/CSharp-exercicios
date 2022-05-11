@@ -1,3 +1,6 @@
 # CSharp-exercicios
 
-Exercícios de fixação do curso C# - Udemy Courses
+C# COMPLETO Programação Orientada a Objetos + Projetos
+
+Udemy course
+
