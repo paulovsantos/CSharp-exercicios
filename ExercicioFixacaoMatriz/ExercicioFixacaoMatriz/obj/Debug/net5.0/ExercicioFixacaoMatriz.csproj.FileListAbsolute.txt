@@ -1,0 +1,16 @@
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\net5.0\ExercicioFixacaoMatriz.exe
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\net5.0\ExercicioFixacaoMatriz.deps.json
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\net5.0\ExercicioFixacaoMatriz.runtimeconfig.json
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\net5.0\ExercicioFixacaoMatriz.runtimeconfig.dev.json
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\net5.0\ExercicioFixacaoMatriz.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\net5.0\ref\ExercicioFixacaoMatriz.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\net5.0\ExercicioFixacaoMatriz.pdb
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\net5.0\ExercicioFixacaoMatriz.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\net5.0\ExercicioFixacaoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\net5.0\ExercicioFixacaoMatriz.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\net5.0\ExercicioFixacaoMatriz.AssemblyInfo.cs
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\net5.0\ExercicioFixacaoMatriz.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\net5.0\ExercicioFixacaoMatriz.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\net5.0\ref\ExercicioFixacaoMatriz.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\net5.0\ExercicioFixacaoMatriz.pdb
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\net5.0\ExercicioFixacaoMatriz.genruntimeconfig.cache
