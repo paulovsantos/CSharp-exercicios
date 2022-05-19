@@ -1,0 +1,16 @@
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net5.0\ExercicioFixacaoLista.exe
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net5.0\ExercicioFixacaoLista.deps.json
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net5.0\ExercicioFixacaoLista.runtimeconfig.json
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net5.0\ExercicioFixacaoLista.runtimeconfig.dev.json
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net5.0\ExercicioFixacaoLista.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net5.0\ref\ExercicioFixacaoLista.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net5.0\ExercicioFixacaoLista.pdb
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net5.0\ExercicioFixacaoLista.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net5.0\ExercicioFixacaoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net5.0\ExercicioFixacaoLista.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net5.0\ExercicioFixacaoLista.AssemblyInfo.cs
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net5.0\ExercicioFixacaoLista.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net5.0\ExercicioFixacaoLista.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net5.0\ref\ExercicioFixacaoLista.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net5.0\ExercicioFixacaoLista.pdb
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net5.0\ExercicioFixacaoLista.genruntimeconfig.cache
