@@ -1,0 +1,16 @@
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\bin\Debug\net5.0\ExercicioVetoresFixacao.exe
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\bin\Debug\net5.0\ExercicioVetoresFixacao.deps.json
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\bin\Debug\net5.0\ExercicioVetoresFixacao.runtimeconfig.json
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\bin\Debug\net5.0\ExercicioVetoresFixacao.runtimeconfig.dev.json
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\bin\Debug\net5.0\ExercicioVetoresFixacao.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\bin\Debug\net5.0\ref\ExercicioVetoresFixacao.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\bin\Debug\net5.0\ExercicioVetoresFixacao.pdb
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\obj\Debug\net5.0\ExercicioVetoresFixacao.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\obj\Debug\net5.0\ExercicioVetoresFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\obj\Debug\net5.0\ExercicioVetoresFixacao.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\obj\Debug\net5.0\ExercicioVetoresFixacao.AssemblyInfo.cs
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\obj\Debug\net5.0\ExercicioVetoresFixacao.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\obj\Debug\net5.0\ExercicioVetoresFixacao.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\obj\Debug\net5.0\ref\ExercicioVetoresFixacao.dll
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\obj\Debug\net5.0\ExercicioVetoresFixacao.pdb
+C:\workspace\UdemyC#\Capitulo 6 - Comportamento de memórias, listas, arrays\ExercicioVetoresFixacao\ExercicioVetoresFixacao\obj\Debug\net5.0\ExercicioVetoresFixacao.genruntimeconfig.cache
