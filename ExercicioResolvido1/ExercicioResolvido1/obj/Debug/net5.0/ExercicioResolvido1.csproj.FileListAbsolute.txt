@@ -1,0 +1,16 @@
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.exe
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.deps.json
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.runtimeconfig.json
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.runtimeconfig.dev.json
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net5.0\ref\ExercicioResolvido1.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net5.0\ExercicioResolvido1.pdb
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.AssemblyInfo.cs
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net5.0\ref\ExercicioResolvido1.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.pdb
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net5.0\ExercicioResolvido1.genruntimeconfig.cache
