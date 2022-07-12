@@ -1,0 +1,16 @@
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.exe
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.deps.json
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.runtimeconfig.json
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.runtimeconfig.dev.json
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\bin\Debug\net5.0\ref\ExercicioProposto.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\bin\Debug\net5.0\ExercicioProposto.pdb
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.AssemblyInfo.cs
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\obj\Debug\net5.0\ref\ExercicioProposto.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.pdb
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioProposto\ExercicioProposto\obj\Debug\net5.0\ExercicioProposto.genruntimeconfig.cache
