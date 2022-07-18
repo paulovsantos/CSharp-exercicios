@@ -1,0 +1,16 @@
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.AssemblyInfo.cs
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.exe
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.deps.json
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.runtimeconfig.json
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.runtimeconfig.dev.json
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\bin\Debug\net5.0\ref\ExercicioFixacao.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.pdb
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\obj\Debug\net5.0\ref\ExercicioFixacao.dll
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.pdb
+C:\workspace\UdemyC#\Capitulo 10 - Polimorfismo e Herança\ExercicioFixacao\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.genruntimeconfig.cache
