@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.Collections.Generic;
 using ExercicioFixacaoExcecoes.Entities;
+using ExercicioFixacaoExcecoes.Entities.Exceptions;
 
 namespace ExercicioFixacaoExcecoes
 {
@@ -25,8 +26,15 @@ namespace ExercicioFixacaoExcecoes
             Console.Write("Enter amount for withdraw: ");
             double amount = double.Parse(Console.ReadLine());
 
-            account.Withdraw(amount);
-            Console.WriteLine("New balance: " + balance);
+            try
+            {
+                account.Withdraw(amount);
+                Console.WriteLine("New balance: " + account.Balance.ToString("F2", CultureInfo.InvariantCulture));
+            }
+            catch(DomainException e)
+            {
+                Console.WriteLine("Withdraw error: " + e.Message);
+            }
         }
     }
 }

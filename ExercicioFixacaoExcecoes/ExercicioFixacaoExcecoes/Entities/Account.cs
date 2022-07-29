@@ -1,6 +1,6 @@
-﻿
+﻿using System;
 
-using System;
+using ExercicioFixacaoExcecoes.Entities.Exceptions;
 
 namespace ExercicioFixacaoExcecoes.Entities
 {
@@ -31,13 +31,17 @@ namespace ExercicioFixacaoExcecoes.Entities
 
         public void Withdraw(double amount)
         {
-            if(Balance <= 0 || amount > WithdrawLimit)
+            if(amount > WithdrawLimit)
             {
-                Console.WriteLine("Error: Saldo insuficiente!");
-            } else
+                throw new DomainException("The amount exceeds withdraw limit");
+            } 
+            if(amount > Balance)
             {
-                Balance -= amount;
+                throw new DomainException("Not enough balance");
             }
+            Balance -= amount;
+            
         }
+
     }
 }
